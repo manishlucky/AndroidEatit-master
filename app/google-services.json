@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "1063829594306",
+    "firebase_url": "https://hungerzone2.firebaseio.com",
+    "project_id": "hungerzone2",
+    "storage_bucket": "hungerzone2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063829594306:android:8eb5428238eab39b791b5b",
+        "android_client_info": {
+          "package_name": "com.app.leo.androideatit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063829594306-dmu80a3otpdn78k0cgek92doq7c3q83t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.leo.androideatit",
+            "certificate_hash": "462bcf94bab05f43c60c108a11b40963255ab897"
+          }
+        },
+        {
+          "client_id": "1063829594306-gn6cjdrkgv03h6t9a4td1uac4enh0l93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcpuXmuEa6BHjF5ZGJ8_wNEa10Ik-R9HE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063829594306-gn6cjdrkgv03h6t9a4td1uac4enh0l93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063829594306:android:aa4f1cc0d4c96665791b5b",
+        "android_client_info": {
+          "package_name": "com.example.hungerzonereal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063829594306-dg27t9efbakl0btc0p5rpdmu0bobua15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hungerzonereal",
+            "certificate_hash": "462bcf94bab05f43c60c108a11b40963255ab897"
+          }
+        },
+        {
+          "client_id": "1063829594306-gn6cjdrkgv03h6t9a4td1uac4enh0l93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcpuXmuEa6BHjF5ZGJ8_wNEa10Ik-R9HE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063829594306-gn6cjdrkgv03h6t9a4td1uac4enh0l93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063829594306:android:f0a849063385bd5d791b5b",
+        "android_client_info": {
+          "package_name": "com.foodorderapp.ruhul08.foodorderapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063829594306-gfct8pncd2smpn16r48fbqv1mfqg5ri1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodorderapp.ruhul08.foodorderapp",
+            "certificate_hash": "462bcf94bab05f43c60c108a11b40963255ab897"
+          }
+        },
+        {
+          "client_id": "1063829594306-gn6cjdrkgv03h6t9a4td1uac4enh0l93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcpuXmuEa6BHjF5ZGJ8_wNEa10Ik-R9HE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063829594306-gn6cjdrkgv03h6t9a4td1uac4enh0l93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063829594306:android:4e58c9d9268aa8ce791b5b",
+        "android_client_info": {
+          "package_name": "com.proyek.rahmanjai.eatit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063829594306-6f9nh3tmq062vpnd239rehr4beg2qpks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proyek.rahmanjai.eatit",
+            "certificate_hash": "462bcf94bab05f43c60c108a11b40963255ab897"
+          }
+        },
+        {
+          "client_id": "1063829594306-gn6cjdrkgv03h6t9a4td1uac4enh0l93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcpuXmuEa6BHjF5ZGJ8_wNEa10Ik-R9HE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063829594306-gn6cjdrkgv03h6t9a4td1uac4enh0l93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
